@@ -1,4 +1,4 @@
-# Calculadora-de-churrasco
+# calculadora-de-churrasco
 
 Este projeto tem como objetivo calcular o valor total de um churrasco e dividi-lo entre os participantes.
 
